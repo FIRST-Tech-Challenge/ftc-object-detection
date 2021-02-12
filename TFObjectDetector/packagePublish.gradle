@@ -73,8 +73,8 @@ afterEvaluate {
                     url = 'https://github.com/FIRST-Tech-Challenge/ftc-object-detection'
                     licenses {
                         license {
-                            name = '3-Clause BSD'
-                            url = 'https://opensource.org/licenses/BSD-3-Clause'
+                            name = 'The Apache License, Version 2.0'
+                            url = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
                         }
                     }
                     developers {
